@@ -1,0 +1,6 @@
+{
+  "llm": 10,
+  "rag": 10,
+  "retrieval": 10,
+  "python": 7
+}
